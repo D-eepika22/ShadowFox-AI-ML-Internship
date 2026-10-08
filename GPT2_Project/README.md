@@ -12,7 +12,6 @@ Generate coherent text from custom prompts.
 Explore Natural Language Processing (NLP) applications.
 
 ## Technologies Used
-
 Python 3.11
 Hugging Face Transformers
 PyTorch
